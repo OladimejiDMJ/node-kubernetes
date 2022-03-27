@@ -36,7 +36,9 @@ The image is public so you can the pull the image from docker hub using the comm
 2. Clone the project 
 3. Install dependencies with "npm install" command
 4. Run project with "npm start"
-
+# OR
+1. CD into the working directory
+2. run "kubectl apply -f deployment.yaml" command   
 # Routes
 | HTTP Method  | Endpoints | 
 | ------------- | ------------- |
